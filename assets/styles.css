@@ -1,4 +1,3 @@
-
 :root {
 font-size: 16px;
 font-family: Avenir-Next,Roboto,sans-serif;
@@ -129,7 +128,7 @@ section {
   background-color: #3e8e41;
 }
 
-.jumbotroneeee {	
+.jumbotron {	
 	background: url(https://i.imgur.com/ksqOx5F.jpg);
 	background-repeat: no-repeat;
   background-size: 100%;
@@ -141,29 +140,29 @@ section {
   padding: 50px;
 }
 
-.jumbotroneeee h1 {
+.jumbotron h1 {
 
 	color: white;
 
 }
 
-.jumbotroneeee h3 {
+.jumbotron h3 {
 
 	color: white;
 
 }
 
-.jumbotroneeee button {
+.jumbotron button {
 	margin: 15px;
 	padding: 10px;
 
 }
 
-.btn-groupe {
+.btn-group {
 	display: block;
 }
 
-.apply_buttons {
+.apply_button {
   background-color: #4992ca;
   color: #fff;
   border: none;
@@ -172,47 +171,47 @@ section {
   width: 140px;
 }
 
-.schedulle {
+.schedule {
   background-color: #ffffff00;
   color: #fff;
   height: 60px;
   border: 2px solid white;
 }
 
-.learnmorre {
+.learnmore {
   border-radius: 15px;
 }
-.learnmorre:visited {
+.learnmore:visited {
   outline: none;
 }
 
-.pokemonos {
+.pokmon {
 	background-color: #4992ca;
 	padding: 50px;
 	margin: 0;
 
 }
 
-.pokemonos h2 {
+.pokmon h2 {
 	color: white;
 	text-align: center;
 }
 
-.pokemonos p {
+.pokmon p {
 	font-family: Avenir-Next,Roboto,sans-serif;
 	color: white;
 }
 
-.columnss {
+.columns {
 	display: flex;
 	align-items: center;
 
 }
-.colu i {
+.col i {
 	color: white;
 }
 
-.containerr {
+.container {
 	margin: 0;
 	padding: 50px;
 	background-color: white;
@@ -220,29 +219,29 @@ section {
 
 }
 
-.pokimggg {
+.pokimg {
 	border-radius: 50%;
 	height: 100px;
 	width: 100px;
 	flex-shrink: 1;
 }
 
-.pokemonsss {
+.pokemon {
 	height: 80px;
 	width: 170px;
 }
-.item10 {
+.item1 {
 	margin-left: 60px;
 }
 
-.item20 {
+.item2 {
 	margin-left: 60px;
 }
-.item20 p {
+.item2 p {
 	margin-top: 0;
 }
 
-.item30 {
+.item3 {
 	margin-left: 60px;
 }
 .white {
